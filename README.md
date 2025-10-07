@@ -1,2 +1,2 @@
-# Programaci-n-para-Inteligencia-Artificial
+# Programacion-para-Inteligencia-Artificial
 Actividad Fundamental 4

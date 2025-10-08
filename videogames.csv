@@ -1,0 +1,201 @@
+id,name,platform,year,genre,publisher,critic_score,critic_count,user_score,developer,rating
+1,Wii Sports,Wii,2006,Sports,Nintendo,76,51,8,Nintendo,E
+2,Super Mario Bros.,NES,1985,Platform,Nintendo,,,,,
+3,Mario Kart Wii,Wii,2008,Racing,Nintendo,82,73,8.3,Nintendo,E
+4,Wii Sports Resort,Wii,2009,Sports,Nintendo,80,73,8,Nintendo,E
+5,Pokemon Red/Pokemon Blue,GB,1996,Role-Playing,Nintendo,,,,,
+6,Tetris,GB,1989,Puzzle,Nintendo,,,,,
+7,New Super Mario Bros.,DS,2006,Platform,Nintendo,89,65,8.5,Nintendo,E
+8,Wii Play,Wii,2006,Misc,Nintendo,58,41,6.6,Nintendo,E
+9,New Super Mario Bros. Wii,Wii,2009,Platform,Nintendo,87,80,8.4,Nintendo,E
+10,Duck Hunt,NES,1984,Shooter,Nintendo,,,,,
+11,Nintendogs,DS,2005,Simulation,Nintendo,,,,,
+12,Mario Kart DS,DS,2005,Racing,Nintendo,91,64,8.6,Nintendo,E
+13,Pokemon Gold/Pokemon Silver,GB,1999,Role-Playing,Nintendo,,,,,
+14,Wii Fit,Wii,2007,Sports,Nintendo,80,63,7.7,Nintendo,E
+15,Kinect Adventures!,X360,2010,Misc,Microsoft Game Studios,61,45,6.3,Good Science Studio,E
+16,Wii Fit Plus,Wii,2009,Sports,Nintendo,80,33,7.4,Nintendo,E
+17,Grand Theft Auto V,PS3,2013,Action,Take-Two Interactive,97,50,8.2,Rockstar North,M
+18,Grand Theft Auto: San Andreas,PS2,2004,Action,Take-Two Interactive,95,80,9,Rockstar North,M
+19,Super Mario World,SNES,1990,Platform,Nintendo,,,,,
+20,Brain Age: Train Your Brain in Minutes a Day,DS,2005,Misc,Nintendo,77,58,7.9,Nintendo,E
+21,Pokemon Diamond/Pokemon Pearl,DS,2006,Role-Playing,Nintendo,,,,,
+22,Super Mario Land,GB,1989,Platform,Nintendo,,,,,
+23,Super Mario Bros. 3,NES,1988,Platform,Nintendo,,,,,
+24,Grand Theft Auto V,X360,2013,Action,Take-Two Interactive,97,58,8.1,Rockstar North,M
+25,Grand Theft Auto: Vice City,PS2,2002,Action,Take-Two Interactive,95,62,8.7,Rockstar North,M
+26,Pokemon Ruby/Pokemon Sapphire,GBA,2002,Role-Playing,Nintendo,,,,,
+27,Brain Age 2: More Training in Minutes a Day,DS,2005,Puzzle,Nintendo,77,37,7.1,Nintendo,E
+28,Pokemon Black/Pokemon White,DS,2010,Role-Playing,Nintendo,,,,,
+29,Gran Turismo 3: A-Spec,PS2,2001,Racing,Sony Computer Entertainment,95,54,8.4,Polyphony Digital,E
+30,Call of Duty: Modern Warfare 3,X360,2011,Shooter,Activision,88,81,3.4,Infinity Ward,M
+31,Pokemon Yellow: Special Pikachu Edition,GB,1998,Role-Playing,Nintendo,,,,,
+32,Call of Duty: Black Ops 3,PS4,2015,Shooter,Activision,,,,,
+33,Call of Duty: Black Ops,X360,2010,Shooter,Activision,87,89,6.3,Treyarch,M
+34,Pokemon X/Pokemon Y,3DS,2013,Role-Playing,Nintendo,,,,,
+35,Call of Duty: Black Ops II,PS3,2012,Shooter,Activision,83,21,5.3,Treyarch,M
+36,Call of Duty: Black Ops II,X360,2012,Shooter,Activision,83,73,4.8,Treyarch,M
+37,Call of Duty: Modern Warfare 2,X360,2009,Shooter,Activision,94,100,6.3,Infinity Ward,M
+38,Call of Duty: Modern Warfare 3,PS3,2011,Shooter,Activision,88,39,3.2,Infinity Ward,M
+39,Grand Theft Auto III,PS2,2001,Action,Take-Two Interactive,97,56,8.5,DMA Design,M
+40,Super Smash Bros. Brawl,Wii,2008,Fighting,Nintendo,93,81,8.9,Game Arts,T
+41,Mario Kart 7,3DS,2011,Racing,Nintendo,85,73,8.2,Retro Studios,E
+42,Call of Duty: Black Ops,PS3,2010,Shooter,Activision,88,58,6.4,Treyarch,M
+43,Grand Theft Auto V,PS4,2014,Action,Take-Two Interactive,97,66,8.3,Rockstar North,M
+44,Animal Crossing: Wild World,DS,2005,Simulation,Nintendo,86,57,8.7,Nintendo,E
+45,Halo 3,X360,2007,Shooter,Microsoft Game Studios,94,86,7.8,Bungie Software,M
+46,Super Mario 64,N64,1996,Platform,Nintendo,,,,,
+47,Pokemon HeartGold/Pokemon SoulSilver,DS,2009,Action,Nintendo,,,,,
+48,Pokemon Omega Ruby/Pokemon Alpha Sapphire,3DS,2014,Role-Playing,Nintendo,,,,,
+49,Gran Turismo 4,PS2,2004,Racing,Sony Computer Entertainment,89,74,8.5,Polyphony Digital,E
+50,Super Mario Galaxy,Wii,2007,Platform,Nintendo,97,73,8.9,Nintendo,E
+51,Super Mario Land 2: 6 Golden Coins,GB,1992,Adventure,Nintendo,,,,,
+52,Grand Theft Auto IV,X360,2008,Action,Take-Two Interactive,98,86,7.9,Rockstar North,M
+53,Gran Turismo,PS,1997,Racing,Sony Computer Entertainment,96,16,8.7,Polyphony Digital,E
+54,Super Mario 3D Land,3DS,2011,Platform,Nintendo,90,82,8.4,Nintendo,E
+55,Gran Turismo 5,PS3,2010,Racing,Sony Computer Entertainment,84,82,7.5,Polyphony Digital,E
+56,Call of Duty: Modern Warfare 2,PS3,2009,Shooter,Activision,94,67,6.3,Infinity Ward,M
+57,Super Mario All-Stars,SNES,1993,Platform,Nintendo,,,,,
+58,Grand Theft Auto IV,PS3,2008,Action,Take-Two Interactive,98,64,7.5,Rockstar North,M
+59,Pokemon FireRed/Pokemon LeafGreen,GBA,2004,Role-Playing,Nintendo,,,,,
+60,Super Mario 64,DS,2004,Platform,Nintendo,,,,,
+61,Call of Duty: Ghosts,X360,2013,Shooter,Activision,73,29,2.6,Infinity Ward,M
+62,Just Dance 3,Wii,2011,Misc,Ubisoft,74,15,7.8,Ubisoft,E10+
+63,New Super Mario Bros. 2,3DS,2012,Platform,Nintendo,78,70,7.2,Nintendo,E
+64,Mario Kart 64,N64,1996,Racing,Nintendo,,,,,
+65,Halo: Reach,X360,2010,Shooter,Microsoft Game Studios,91,99,7.9,Bungie,M
+66,Final Fantasy VII,PS,1997,Role-Playing,Sony Computer Entertainment,92,20,9.2,SquareSoft,T
+67,Halo 4,X360,2012,Shooter,Microsoft Game Studios,87,87,7,343 Industries,M
+68,Gran Turismo 2,PS,1999,Racing,Sony Computer Entertainment,93,23,9,Polyphony Digital,T
+69,Just Dance 2,Wii,2010,Misc,Ubisoft,74,24,7.3,Ubisoft,E10+
+70,Call of Duty: Ghosts,PS3,2013,Shooter,Activision,71,10,2.6,Infinity Ward,M
+71,Call of Duty 4: Modern Warfare,X360,2007,Shooter,Activision,94,70,8.4,Infinity Ward,M
+72,Donkey Kong Country,SNES,1994,Platform,Nintendo,,,,,
+73,Minecraft,X360,2013,Misc,Microsoft Game Studios,,,,,
+74,Animal Crossing: New Leaf,3DS,2012,Simulation,Nintendo,88,70,8.7,Nintendo,E
+75,Mario Party DS,DS,2007,Misc,Nintendo,72,27,7.8,Hudson Soft,E
+76,The Elder Scrolls V: Skyrim,X360,2011,Role-Playing,Bethesda Softworks,96,89,8.4,Bethesda Game Studios,M
+77,Super Mario Kart,SNES,1992,Racing,Nintendo,,,,,
+78,FIFA 16,PS4,2015,Sports,Electronic Arts,82,42,4.3,EA Sports,E
+79,Halo 2,XB,2004,Shooter,Microsoft Game Studios,95,91,8.2,Bungie Software,M
+80,Wii Party,Wii,2010,Misc,Nintendo,68,42,7.4,Nd Cube,E
+81,Mario Party 8,Wii,2007,Misc,Nintendo,62,41,6.3,Hudson,E
+82,FIFA Soccer 13,PS3,2012,Action,Electronic Arts,88,37,6.6,Electronic Arts,E
+83,GoldenEye 007,N64,1997,Shooter,Nintendo,,,,,
+84,Pokemon Black 2/Pokemon White 2,DS,2012,Role-Playing,Nintendo,,,,,
+85,Final Fantasy X,PS2,2001,Role-Playing,Sony Computer Entertainment,92,53,8.7,SquareSoft,T
+86,The Sims 3,PC,2009,Simulation,Electronic Arts,86,75,7.6,The Sims Studio,T
+87,Mario & Sonic at the Olympic Games,Wii,2007,Sports,Sega,,,,,
+88,Star Wars Battlefront (2015),PS4,2015,Shooter,Electronic Arts,,,,,
+89,Final Fantasy VIII,PS,1999,Role-Playing,SquareSoft,90,24,8.6,SquareSoft,T
+90,Pac-Man,2600,1982,Puzzle,Atari,,,,,
+91,Pokemon Platinum Version,DS,2008,Role-Playing,Nintendo,83,46,8.5,Game Freak,E
+92,Grand Theft Auto: Liberty City Stories,PSP,2005,Action,Take-Two Interactive,88,65,7.6,Rockstar Leeds,M
+93,Call of Duty: Advanced Warfare,PS4,2014,Shooter,Activision,83,39,5.7,Sledgehammer Games,M
+94,The Legend of Zelda: Ocarina of Time,N64,1998,Action,Nintendo,,,,,
+95,FIFA 17,PS4,2016,Sports,Electronic Arts,85,41,5,EA Sports,E
+96,Crash Bandicoot 2: Cortex Strikes Back,PS,1997,Platform,Sony Computer Entertainment,,,,,
+97,Super Smash Bros. for Wii U and 3DS,3DS,2014,Fighting,Nintendo,,,,,
+98,Super Mario Galaxy 2,Wii,2010,Platform,Nintendo,97,87,9.1,Nintendo EAD Tokyo,E
+99,Super Mario Bros. 2,NES,1988,Platform,Nintendo,,,,,
+100,Call of Duty: Black Ops 3,XOne,2015,Shooter,Activision,,,,,
+101,Call of Duty: World at War,X360,2008,Shooter,Activision,84,84,7.6,Treyarch,M
+102,Battlefield 3,X360,2011,Shooter,Electronic Arts,84,57,7.4,EA DICE,M
+103,Need for Speed Underground,PS2,2003,Racing,Electronic Arts,85,33,8.6,EA Black Box,E
+104,Just Dance,Wii,2009,Misc,Ubisoft,49,21,8,Ubisoft Paris,E10+
+105,Battlefield 3,PS3,2011,Shooter,Electronic Arts,85,38,7.5,EA DICE,M
+106,Fallout 4,PS4,2015,Role-Playing,Bethesda Softworks,87,58,6.5,Bethesda Game Studios,M
+107,Tekken 3,PS,1998,Fighting,Sony Computer Entertainment,96,15,9.1,Namco,T
+108,The Legend of Zelda: Twilight Princess,Wii,2006,Action,Nintendo,95,73,9,Nintendo,T
+109,Pokemon Sun/Moon,3DS,2016,Role-Playing,Nintendo,,,,,
+110,Crash Bandicoot 3: Warped,PS,1998,Platform,Sony Computer Entertainment,91,12,8.9,Naughty Dog,E
+111,Mario Kart 8,WiiU,2014,Racing,Nintendo,88,82,9.1,Nintendo,E
+112,Super Smash Bros. Melee,GC,2001,Fighting,Nintendo,92,38,9.1,HAL Labs,T
+113,Mario Kart: Double Dash!!,GC,2003,Racing,Nintendo,,,,,
+114,Need for Speed Underground 2,PS2,2004,Racing,Electronic Arts,82,39,8.6,EA Canada,E
+115,Medal of Honor: Frontline,PS2,2002,Shooter,Electronic Arts,88,29,8.5,EA LA,T
+116,Crash Bandicoot,PS,1996,Platform,Sony Computer Entertainment,,,,,
+117,Just Dance 4,Wii,2012,Misc,Ubisoft,74,10,7.3,Ubisoft,E10+
+118,Gears of War 2,X360,2008,Shooter,Microsoft Game Studios,93,90,7.7,Epic Games,M
+119,Uncharted 3: Drake's Deception,PS3,2011,Action,Sony Computer Entertainment,92,97,8.3,Naughty Dog,T
+120,Zumba Fitness,Wii,2010,Sports,505 Games,,,tbd,Pipeworks Software,E
+121,Call of Duty 4: Modern Warfare,PS3,2007,Shooter,Activision,94,44,8.4,Infinity Ward,M
+122,Uncharted 2: Among Thieves,PS3,2009,Action,Sony Computer Entertainment,96,105,8.8,Naughty Dog,T
+123,FIFA 12,PS3,2011,Sports,Electronic Arts,,,,,
+124,Big Brain Academy,DS,2005,Misc,Nintendo,74,45,7.4,Nintendo,E
+125,The Legend of Zelda,NES,1986,Action,Nintendo,,,,,
+126,Red Dead Redemption,PS3,2010,Action,Take-Two Interactive,95,73,8.8,Rockstar San Diego,M
+127,FIFA 14,PS3,2013,Sports,Electronic Arts,86,37,4.3,EA Canada,E
+128,Assassin's Creed III,PS3,2012,Action,Ubisoft,85,41,6.9,Ubisoft,M
+129,Donkey Kong Country Returns,Wii,2010,Platform,Nintendo,87,77,8.6,Retro Studios,E
+130,Halo: Combat Evolved,XB,2001,Shooter,Microsoft Game Studios,97,68,8.6,Bungie Software,M
+131,The Elder Scrolls V: Skyrim,PS3,2011,Role-Playing,Bethesda Softworks,92,16,6.4,Bethesda Game Studios,M
+132,Pokemon Emerald Version,GBA,2004,Role-Playing,Nintendo,76,28,9,Game Freak,E
+133,Kingdom Hearts,PS2,2002,Role-Playing,Sony Computer Entertainment,85,46,8.8,SquareSoft,E
+134,Pokemon Crystal Version,GB,2000,Role-Playing,Nintendo,,,,,
+135,Halo 3: ODST,X360,2009,Shooter,Microsoft Game Studios,83,94,7.1,Bungie Software,M
+136,Red Dead Redemption,X360,2010,Action,Take-Two Interactive,95,96,9,Rockstar San Diego,M
+137,Super Mario Sunshine,GC,2002,Platform,Nintendo,92,61,8.6,Nintendo,E
+138,Street Fighter II: The World Warrior,SNES,1992,Fighting,Capcom,,,,,
+139,World of Warcraft,PC,2004,Role-Playing,Activision,93,57,7.3,Blizzard Entertainment,T
+140,Driver,PS,1999,Action,GT Interactive,87,22,8.1,Reflections Interactive,T
+141,Gears of War 3,X360,2011,Shooter,Microsoft Game Studios,91,96,7.8,Epic Games,M
+142,Kinect Sports,X360,2010,Sports,Microsoft Game Studios,73,51,7.4,Rare Ltd.,E10+
+143,Gears of War,X360,2006,Shooter,Microsoft Game Studios,94,88,8.3,Epic Games,M
+144,FIFA 15,PS4,2014,Sports,Electronic Arts,82,47,5.7,EA Sports,E
+145,Metal Gear Solid 2: Sons of Liberty,PS2,2001,Action,Konami Digital Entertainment,96,42,8.7,KCEJ,M
+146,Sonic the Hedgehog 2,GEN,1992,Platform,Sega,,,,,
+147,Metal Gear Solid,PS,1998,Action,Konami Digital Entertainment,94,20,9.4,KCEJ,M
+148,Metal Gear Solid 4: Guns of the Patriots,PS3,2008,Action,Konami Digital Entertainment,94,82,8.7,Kojima Productions,M
+149,Final Fantasy XII,PS2,2006,Role-Playing,Square Enix,92,64,7.6,Square Enix,T
+150,The Last of Us,PS3,2013,Action,Sony Computer Entertainment Europe,95,98,9.1,Naughty Dog,M
+151,LittleBigPlanet,PS3,2008,Platform,Sony Computer Entertainment,95,85,6.8,SCE/WWS,E
+152,Resident Evil 2,PS,1998,Action,Virgin Interactive,89,13,9.2,Capcom,M
+153,Dragon Quest IX: Sentinels of the Starry Skies,DS,2009,Role-Playing,Nintendo,87,65,8.8,Level 5,E10+
+154,Tekken 2,PS,1996,Fighting,Sony Computer Entertainment,89,8,8.9,Namco,T
+155,Destiny,PS4,2014,Shooter,Activision,76,95,6.1,Bungie Software,T
+156,LEGO Star Wars: The Complete Saga,Wii,2007,Action,LucasArts,80,17,8.9,Traveller's Tales,E10+
+157,Cooking Mama,DS,2006,Simulation,505 Games,67,35,7.2,Taito Corporation,E
+158,Tetris,NES,1988,Puzzle,Nintendo,,,,,
+159,Super Smash Bros.,N64,1999,Fighting,Nintendo,,,,,
+160,Assassin's Creed II,PS3,2009,Action,Ubisoft,91,70,8.6,Ubisoft Montreal,M
+161,Assassin's Creed,X360,2007,Adventure,Ubisoft,81,77,7.7,Ubisoft Montreal,M
+162,Forza Motorsport 3,X360,2009,Racing,Microsoft Game Studios,92,90,8,Turn 10,E
+163,Super Mario Advance,GBA,2001,Platform,Nintendo,84,19,7.8,Nintendo,E
+164,Monster Hunter Freedom Unite,PSP,2008,Role-Playing,Capcom,81,48,8.7,Capcom,T
+165,Batman: Arkham City,PS3,2011,Action,Warner Bros. Interactive Entertainment,96,42,8.6,Rocksteady Studios,T
+166,Grand Theft Auto V,XOne,2014,Action,Take-Two Interactive,97,14,7.9,Rockstar North,M
+167,Mario Kart: Super Circuit,GBA,2001,Racing,Nintendo,93,24,8.3,Intelligent Systems,E
+168,Super Mario World,GBA,2001,Platform,Nintendo,,,,,
+169,Pokemon Stadium,N64,1999,Strategy,Nintendo,,,,,
+170,Crash Bandicoot: The Wrath of Cortex,PS2,2001,Platform,Universal Interactive,66,22,7.1,Traveller's Tales,E
+171,Call of Duty: World at War,PS3,2008,Shooter,Activision,85,45,7.6,Treyarch,M
+172,Uncharted 4: A Thief's End,PS4,2016,Shooter,Sony Computer Entertainment,93,113,7.9,Naughty Dog,T
+173,Dr. Mario,GB,1989,Puzzle,Nintendo,,,,,
+174,Final Fantasy XIII,PS3,2009,Role-Playing,Square Enix,83,83,7.3,Square Enix,T
+175,Pokemon Pinball,GB,1999,Misc,Nintendo,,,,,
+176,Final Fantasy IX,PS,2000,Role-Playing,SquareSoft,94,22,8.9,SquareSoft,T
+177,Assassin's Creed III,X360,2012,Action,Ubisoft,84,61,6.7,Ubisoft,M
+178,Final Fantasy X-2,PS2,2003,Role-Playing,Electronic Arts,85,45,6.6,SquareSoft,T
+179,Donkey Kong 64,N64,1999,Platform,Nintendo,,,,,
+180,Call of Duty: Advanced Warfare,XOne,2014,Shooter,Activision,81,53,5.4,Sledgehammer Games,M
+181,Minecraft,PS3,2014,Misc,Sony Computer Entertainment,,,,,
+182,Assassin's Creed II,X360,2009,Action,Ubisoft,90,82,8.8,Ubisoft Montreal,M
+183,Tomb Raider II,PS,1997,Action,Eidos Interactive,85,13,,Core Design Ltd.,T
+184,Madden NFL 2004,PS2,2011,Sports,Electronic Arts,94,29,8.5,EA Tiburon,E
+185,Tomodachi Life,3DS,2013,Simulation,Nintendo,,,,,
+186,New Super Mario Bros. U,WiiU,2012,Platform,Nintendo,84,70,8.1,Nintendo,E
+187,Dragon Quest VIII: Journey of the Cursed King,PS2,2004,Role-Playing,Square Enix,89,63,8.8,Level 5,T
+188,Super Mario Bros. 3,GBA,2003,Platform,Nintendo,,,,,
+189,Professor Layton and the Curious Village,DS,2007,Puzzle,Nintendo,85,72,8.6,Level 5,E
+190,Super Mario Land 3: Wario Land,GB,1994,Platform,Nintendo,,,,,
+191,FIFA Soccer 13,X360,2012,Action,Electronic Arts,90,48,6.1,Electronic Arts,E
+192,Donkey Kong Country 2: Diddy's Kong Quest,SNES,1995,Platform,Nintendo,,,,,
+193,Diablo III,PC,2012,Role-Playing,Activision,88,86,4,Blizzard Entertainment,M
+194,Medal of Honor: Rising Sun,PS2,2003,Shooter,Electronic Arts,68,30,7.6,EA LA,T
+195,Kirby's Dream Land,GB,1992,Platform,Nintendo,,,,,
+196,Microsoft Flight Simulator,PC,1996,Simulation,Microsoft Game Studios,,,,,
+197,Guitar Hero II,PS2,2006,Misc,RedOctane,92,69,8.5,Harmonix Music Systems,T
+198,Fable III,X360,2010,Role-Playing,Microsoft Game Studios,80,88,6.5,Lionhead Studios,M
+199,Mario & Sonic at the Olympic Games,DS,2008,Sports,Sega,,,,,
+200,Resident Evil 5,PS3,2009,Action,Capcom,84,76,7.5,Capcom,M
